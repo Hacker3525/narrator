@@ -14,4 +14,4 @@ Commands:
 Now enter the inputs the program asking you for.
 <br><br>
 You are free to edit and suggest new changes to this program.
-Thanks a lot
+Thanks a lot... 
